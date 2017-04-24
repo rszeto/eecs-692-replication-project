@@ -1,0 +1,2 @@
+module load cuda cudnn gflags tensorflow/1.0.1 opencv/3.2.0
+export PYTHONPATH=/z/home/szetor/lib/python2.7/site-packages:$PYTHONPATH
